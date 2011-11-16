@@ -27,6 +27,9 @@ how to benchmark
 
 Threaded mode is successfully asynchronous, but serves fewer requests per second.
 
+does it work asynchronously on heroku?
+--------------------------------------
+yes
 
 open questions
 --------------
